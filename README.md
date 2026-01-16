@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Ingrid Lara
+# 👋 Hello, I'm Ingrid 👾
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;NLP+%26+Computer+Vision;Generative+AI" alt="Typing SVG" />
 
@@ -83,7 +83,7 @@ I'm interested in creating intelligent, scalable solutions with real impact.
 
 <div align="center">
   
-### 💡 "A inteligência artificial é a nova eletricidade." - Andrew Ng
+### 💡 "AI is the new electricity." — Andrew Ng
 
 ![Visitor Count](https://profile-counter.glitch.me/SEU_USERNAME/count.svg)
 
