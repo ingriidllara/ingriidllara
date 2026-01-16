@@ -84,7 +84,8 @@ I'm interested in creating intelligent, scalable solutions with real impact.
 <div align="center">
   
 ### 💡 "AI is the new electricity." — Andrew Ng
+<img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/38082fb4-b3ce-4ccc-a1b2-4f514f339f32" />
 
-![Visitor Count](https://profile-counter.glitch.me/SEU_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ingriidllara/count.svg)
 
 </div>
