@@ -1,32 +1,32 @@
 <div align="center">
   
-# 👋 Olá, sou Ingrid Lara
+# 👋 Hello, I'm Ingrid Lara
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Intelig%C3%AAncia+Artificial;Machine+Learning;Deep+Learning;NLP+%26+Vis%C3%A3o+Computacional;IA+Generativa" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;NLP+%26+Computer+Vision;Generative+AI" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 Bem-vindo(a) ao meu portfólio profissional de Inteligência Artificial
+## 🎯 Welcome to my Artificial Intelligence professional portfolio
 
-Aqui você encontrará projetos práticos envolvendo **Machine Learning**, **Deep Learning**, **NLP**, **Visão Computacional** e **IA Generativa**.
-
----
-
-## 🚀 Sobre mim
-
-Sou uma profissional focada em **Inteligência Artificial**, **automação** e **tecnologia aplicada**.  
-Tenho interesse em criar soluções inteligentes, escaláveis e com impacto real.
-
-- 🌍 **Localização:** Brasil / Internacional
-- 🧠 **Foco:** IA aplicada, automação, dados e produtos digitais
-- 📈 **Interesse:** Projetos reais, pesquisa e inovação
-- 🌐 **Idiomas:** Português | Inglês
+Here you'll find practical projects involving **Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision**, and **Generative AI**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 About me
+
+I'm a professional focused on **Artificial Intelligence**, **automation**, and **applied technology**.  
+I'm interested in creating intelligent, scalable solutions with real impact.
+
+- 🌍 **Location:** Brazil / International
+- 🧠 **Focus:** Applied AI, automation, data, and digital products
+- 📈 **Interest:** Real projects, research, and innovation
+- 🌐 **Languages:** Portuguese | English
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -60,16 +60,16 @@ Tenho interesse em criar soluções inteligentes, escaláveis e com impacto real
 
 ---
 
-## 🌱 Atualmente explorando
+## 🌱 Currently exploring
 
-- 🤖 Agentes de IA e sistemas autônomos
-- 🔬 Fine-tuning de LLMs
-- 🎨 IA Generativa aplicada
+- 🤖 AI agents and autonomous systems
+- 🔬 LLM fine-tuning
+- 🎨 Applied Generative AI
 - 🔍 RAG (Retrieval-Augmented Generation)
 
 ---
 
-## 📫 Como me encontrar
+## 📫 How to reach me
 
 <div align="center">
 
