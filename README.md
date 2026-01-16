@@ -12,3 +12,5 @@ Welcome to my Professional AI Portfolio. Here you will find hands-on projects in
 - Frameworks: PyTorch, TensorFlow, Scikit-learn
 - Generative AI: OpenAI API, LangChain, Hugging Face
 - Tools: Docker, Git, AWS
+
+<img src="https://freshidea.com/ingriid.llara/app/github-search-results/readme-typing-svg/index.php"/>
