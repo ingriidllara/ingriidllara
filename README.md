@@ -1,4 +1,4 @@
-# 🤖 Ingrid Laaraa
+# 👾 Ingrid 
 
 **`AI Engineer`**
 
