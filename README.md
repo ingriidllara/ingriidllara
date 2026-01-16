@@ -8,10 +8,10 @@ Welcome to my Professional AI Portfolio. Here you will find hands-on projects in
 
 ### 🛠️ Technologies & Tools
 
--Languages: Python, SQL
+- Languages: Python, SQL
 
--Frameworks: PyTorch, TensorFlow, Scikit-learn
+- Frameworks: PyTorch, TensorFlow, Scikit-learn
 
--Generative AI: OpenAI API, LangChain, Hugging Face
+- Generative AI: OpenAI API, LangChain, Hugging Face
 
--Tools: Docker, Git, AWS
+- Tools: Docker, Git, AWS
