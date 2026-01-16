@@ -3,7 +3,6 @@
 <h1 align="center">👾 Ingrid </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engenheira+de+Inteligência+Artificial;Criadora+de+Projetos+em+IA;Machine+Learning+%7C+Deep+Learning;Construindo+o+futuro+com+dados+e+código&font=Fira%20Code&center=true&width=520&height=45&duration=4000&pause=1000" alt="Typing SVG" />
 </p>
 
 **`AI Engineer`**
