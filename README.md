@@ -19,5 +19,3 @@ Welcome to my Professional AI Portfolio. Here you will find hands-on projects in
 - Tools: Docker, Git, AWS
 
 <!-- markdownlint-disable MD033 MD041 -->
-
-<h1 align="center">Oi, eu sou Ingrid Lara 👋</h1>
