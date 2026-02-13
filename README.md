@@ -1,34 +1,9 @@
-<details open>
-<summary>📂 My Top Open Source Projects</summary>
-<br>
-
-<!-- Seus projetos aqui -->
-
-</details>
-
-<details open>
-<summary>📕 Top Projects I've Contributed To</summary>
-<br>
-
-<!-- Grid de projetos -->
-<table>
-  <tr>
-    <td>
-      <b>flask</b><br>
-      🔵 Python ⭐ 71.2k 🍴 16.7k
-    </td>
-    <td>
-      <b>shields</b><br>
-      🟡 JavaScript ⭐ 26.1k 🍴 5.6k
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-<summary>📺 Latest YouTube Videos</summary>
-
-<!-- Seus vídeos -->
-
-</details>
+- name: Pull in YouTube videos
+  uses: gautamkrishnar/blog-post-workflow@v1
+  with:
+    comment_tag_name: "YOUTUBE"
+    feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=SEU_CHANNEL_ID"
+    max_post_count: 6
+    template: '<a href="$url"><img width="140px" src="$thumbnail"></a>'
+    committer_username: "youtube-bot"
+    committer_email: "youtube-bot@example.com"
